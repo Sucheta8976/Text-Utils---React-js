@@ -1,4 +1,5 @@
-https://sucheta8976.github.io/Text-Utils---React-js/
+Link to the hosted react-app: https://sucheta8976.github.io/Text-Utils---React-js/
+
 
 # Getting Started with Create React App
 
